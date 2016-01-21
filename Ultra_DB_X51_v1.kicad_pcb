@@ -18,8 +18,8 @@
   )
 
   (layers
-    (0 Front signal)
-    (31 Back signal)
+    (0 Front signal hide)
+    (31 Back signal hide)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
